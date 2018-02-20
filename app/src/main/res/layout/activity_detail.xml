@@ -34,7 +34,7 @@
             <TextView
                 android:id="@+id/also_known_tv"
                 android:layout_width="wrap_content"
-
+                android:breakStrategy="balanced"
                 android:layout_height="wrap_content" />
 
             <TextView
